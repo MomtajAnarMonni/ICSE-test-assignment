@@ -1,0 +1,13 @@
+08-01: Topological Sorting
+*Please answer every theoretical question regarding this task here*
+
+
+08-02: Lowest Cost & Shortest Path Problem
+*Please answer every theoretical question regarding this task here*
+
+
+
+08-03: Knapsack Problem
+*Please answer every theoretical question regarding this task here*
+
+
